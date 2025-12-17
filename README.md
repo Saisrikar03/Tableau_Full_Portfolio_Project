@@ -12,6 +12,11 @@ LIVE DASHBOARD
 View the interactive dashboard here:
 👉 https://saisrikar03.github.io/Tableau_Full_Portfolio_Project/
 
+Or
+
+Direct Link:
+👉 https://public.tableau.com/app/profile/sai.srikar.goranta/viz/AirBnBFullProject_17574984350120/Dashboard1
+
 DASHBOARD HIGHLIGHTS
 
 * Average price comparison by number of bedrooms
